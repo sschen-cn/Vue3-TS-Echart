@@ -1,5 +1,7 @@
 # Vue3+TS+Echart
 
+数据可视化练习demo
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
